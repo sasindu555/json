@@ -1,0 +1,372 @@
+[
+    {
+        "category": "Marketing Teams",
+        "categoryId": "marketing-teams",
+        "icon" : "/images/responsive-landing-simple/template-category-icon/marketing-teams.svg",
+        "templates": [
+            [
+                {
+                    "id": "jji6j1jv4",
+                    "image": "/images/responsive-landing-simple/templates/block-diagram-segment-attractiveness-and-resource-strength-framework-by-hooley-jji6j1jv4.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/block-diagram-segment-attractiveness-and-resource-strength-framework-by-hooley-jji6j1jv4.png"
+                },
+                {
+                    "id": "jl640irm6",
+                    "image": "/images/responsive-landing-simple/templates/block-diagram-pestle-analysis-jl640irm6.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/block-diagram-pestle-analysis-jl640irm6.png"
+                },
+                {
+                    "id": "jjs69bs3b",
+                    "image": "/images/responsive-landing-simple/templates/block-diagram-threats-and-opportunity-matrix-for-stakeholder-management-jjs69bs3b.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/block-diagram-threats-and-opportunity-matrix-for-stakeholder-management-jjs69bs3b.png"
+                },
+                {
+                    "id": "jl640irm8",
+                    "image": "/images/responsive-landing-simple/templates/block-diagram-grow-model-jl640irm8.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/block-diagram-grow-model-jl640irm8.png"
+                }
+            ],
+            [
+                {
+                    "id": "jl640irm5",
+                    "image": "/images/responsive-landing-simple/templates/block-diagram-soar-model-jl640irm5.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/block-diagram-soar-model-jl640irm5.png"
+                },
+                {
+                    "id": "jkw3k76eb",
+                    "image": "/images/responsive-landing-simple/templates/block-diagram-customer-journey-mapping-template-jkw3k76eb.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/block-diagram-customer-journey-mapping-template-jkw3k76eb.png"
+                },
+                {
+                    "id": "jjiku02l2",
+                    "image": "/images/responsive-landing-simple/templates/block-diagram-business-model-to-support-competitive-positioning-jjiku02l2.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/block-diagram-business-model-to-support-competitive-positioning-jjiku02l2.png"
+                },
+                {
+                    "id": "jjs69bs33",
+                    "image": "/images/responsive-landing-simple/templates/block-diagram-adkar-analysis-jjs69bs33.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/block-diagram-adkar-analysis-jjs69bs33.png"
+                }
+            ],
+            [
+                {
+                    "id": "jji18vg42",
+                    "image": "/images/responsive-landing-simple/templates/block-diagram-customer-journey-map-template-jji18vg42.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/block-diagram-customer-journey-map-template-jji18vg42.png"
+                },
+                {
+                    "id": "jji4zkuq6",
+                    "image": "/images/responsive-landing-simple/templates/block-diagram-market-segmentation-chart-template-jji4zkuq6.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/block-diagram-market-segmentation-chart-template-jji4zkuq6.png"
+                },
+                {
+                    "id": "jji4zkuq5",
+                    "image": "/images/responsive-landing-simple/templates/block-diagram-porters-five-forces-analysis-template-jji4zkuq5.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/block-diagram-porters-five-forces-analysis-template-jji4zkuq5.png"
+                },
+                {
+                    "id": "jkcbpdjt5",
+                    "image": "/images/responsive-landing-simple/templates/block-diagram-marketing-tree-jkcbpdjt5.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/block-diagram-marketing-tree-jkcbpdjt5.png"
+                }
+            ]
+        ]
+    },
+    {
+        "category": "IT Teams",
+        "categoryId": "it-teams",
+        "icon" : "/images/responsive-landing-simple/template-category-icon/it-teams.svg",
+        "templates": [
+            [
+                {
+                    "id": "g6lp80gw1",
+                    "image": "/images/responsive-landing-simple/templates/network-diagram-basic-network-diagram-template-g6lp80gw1.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/network-diagram-basic-network-diagram-template-g6lp80gw1.png"
+                },
+                {
+                    "id": "igdi4exj",
+                    "image": "/images/responsive-landing-simple/templates/network-diagram-high-level-office-branch-daigram-igdi4exj.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/network-diagram-high-level-office-branch-daigram-igdi4exj.png"
+                },
+                {
+                    "id": "igdi437c",
+                    "image": "/images/responsive-landing-simple/templates/network-diagram-office-network-on-single-subnet-igdi437c.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/network-diagram-office-network-on-single-subnet-igdi437c.png"
+                },
+                {
+                    "id": "g6n53ip01",
+                    "image": "/images/responsive-landing-simple/templates/network-diagram-wireless-network-diagram-g6n53ip01.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/network-diagram-wireless-network-diagram-g6n53ip01.png"
+                }
+            ],
+            [
+                {
+                    "id": "h4gr4x8d8",
+                    "image": "/images/responsive-landing-simple/templates/amazon-web-services-varnish-behind-the-amazon-route53-aws-template-h4gr4x8d8.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/amazon-web-services-varnish-behind-the-amazon-route53-aws-template-h4gr4x8d8.png"
+                },
+                {
+                    "id": "ipfhobiw1",
+                    "image": "/images/responsive-landing-simple/templates/amazon-web-services-web-hosting-architecture-on-aws-ipfhobiw1.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/amazon-web-services-web-hosting-architecture-on-aws-ipfhobiw1.png"
+                },
+                {
+                    "id": "ip6r31e31",
+                    "image": "/images/responsive-landing-simple/templates/amazon-web-services-reference-architecture-with-amazon-vpc-configuration-ip6r31e31.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/amazon-web-services-reference-architecture-with-amazon-vpc-configuration-ip6r31e31.png"
+                },
+                {
+                    "id": "ip83dl0h1",
+                    "image": "/images/responsive-landing-simple/templates/amazon-web-services-vpc-with-public-and-private-subnets-ip83dl0h1.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/amazon-web-services-vpc-with-public-and-private-subnets-ip83dl0h1.png"
+                }
+            ],
+            [
+                {
+                    "id": "jdc8963g2",
+                    "image": "/images/responsive-landing-simple/templates/cisco-network-diagram-network-topology-jdc8963g2.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/cisco-network-diagram-network-topology-jdc8963g2.png"
+                },
+                {
+                    "id": "iqn5eteo1",
+                    "image": "/images/responsive-landing-simple/templates/cisco-network-diagram-cisco-data-center-fabric-cisco-iqn5eteo1.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/cisco-network-diagram-cisco-data-center-fabric-cisco-iqn5eteo1.png"
+                },
+                {
+                    "id": "i2yhvy241",
+                    "image": "/images/responsive-landing-simple/templates/gantt-chart-it-project-i2yhvy241.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/gantt-chart-it-project-i2yhvy241.png"
+                },
+                {
+                    "id": "",
+                    "image": "/images/responsive-landing-simple/templates/.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/.png"
+                }
+            ]
+        ]
+    },
+    {
+        "category": "Software Teams",
+        "categoryId": "software-teams",
+        "icon" : "/images/responsive-landing-simple/template-category-icon/software-teams.svg",
+        "templates": [
+            [
+                {
+                    "id": "jlg41nbj1",
+                    "image": "/images/responsive-landing-simple/templates/activity-diagram-for-document-management-system-jlg41nbj1.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/activity-diagram-for-document-management-system-jlg41nbj1.png"
+                },
+                {
+                    "id": "i39zw1o81",
+                    "image": "/images/responsive-landing-simple/templates/activity-diagram-college-management-i39zw1o81.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/activity-diagram-college-management-i39zw1o81.png"
+                },
+                {
+                    "id": "jkwhovag1",
+                    "image": "/images/responsive-landing-simple/templates/class-diagram-for-bank-atm-system-jkwhovag1.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/class-diagram-for-bank-atm-system-jkwhovag1.png"
+                },
+                {
+                    "id": "ilbvsua31",
+                    "image": "/images/responsive-landing-simple/templates/retail-banking-system-class-diagram-uml-ilbvsua31.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/retail-banking-system-class-diagram-uml-ilbvsua31.png"
+                }
+            ],
+            [
+                {
+                    "id": "j634oa3j3",
+                    "image": "/images/responsive-landing-simple/templates/collaboration-diagram-uml-communication-diagram-j634oa3j3.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/collaboration-diagram-uml-communication-diagram-j634oa3j3.png"
+                },
+                {
+                    "id": "jkc34kr73",
+                    "image": "/images/responsive-landing-simple/templates/component-diagram-uml-meta-map-diagram-jkc34kr73.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/component-diagram-uml-meta-map-diagram-jkc34kr73.png"
+                },
+                {
+                    "id": "gqz0nrua1",
+                    "image": "/images/responsive-landing-simple/templates/component-diagram-uml-gqz0nrua1.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/component-diagram-uml-gqz0nrua1.png"
+                },
+                {
+                    "id": "i3imqans1",
+                    "image": "/images/responsive-landing-simple/templates/deployment-diagram-uml-for-atm-system-i3imqans1.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/deployment-diagram-uml-for-atm-system-i3imqans1.png"
+                }
+            ],
+            [
+                {
+                    "id": "gsx1cnemh",
+                    "image": "/images/responsive-landing-simple/templates/deployment-diagram-uml-for-a-vehicle-registration-system-gsx1cnemh.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/deployment-diagram-uml-for-a-vehicle-registration-system-gsx1cnemh.png"
+                },
+                {
+                    "id": "gsxghfo2d",
+                    "image": "/images/responsive-landing-simple/templates/sequence-diagram-uml-atm-system-gsxghfo2d.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/sequence-diagram-uml-atm-system-gsxghfo2d.png"
+                },
+                {
+                    "id": "io2p8p181",
+                    "image": "/images/responsive-landing-simple/templates/sequence-diagram-uml-alternative-combination-fragment-sequence-example-io2p8p181.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/sequence-diagram-uml-alternative-combination-fragment-sequence-example-io2p8p181.png"
+                },
+                {
+                    "id": "gsxncbyb2",
+                    "image": "/images/responsive-landing-simple/templates/use-case-diagram-uml-for-travel-agency-gsxncbyb2.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/use-case-diagram-uml-for-travel-agency-gsxncbyb2.png"
+                }
+            ]
+        ]
+    },
+    {
+        "category": "HR Teams",
+        "categoryId": "hr-teams",
+        "icon" : "/images/responsive-landing-simple/template-category-icon/hr-teams.svg",
+        "templates": [
+            [
+                {
+                    "id": "jl640irm1",
+                    "image": "/images/responsive-landing-simple/templates/block-diagram-interrelationship-diagram-jl640irm1.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/block-diagram-interrelationship-diagram-jl640irm1.png"
+                },
+                {
+                    "id": "h2d1hjgi1",
+                    "image": "/images/responsive-landing-simple/templates/mind-map-meeting-starter-template-h2d1hjgi1.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/mind-map-meeting-starter-template-h2d1hjgi1.png"
+                },
+                {
+                    "id": "grhewfnu3",
+                    "image": "/images/responsive-landing-simple/templates/mind-map-product-launch-mindmap-template-grhewfnu3.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/mind-map-product-launch-mindmap-template-grhewfnu3.png"
+                },
+                {
+                    "id": "hlq67stp1",
+                    "image": "/images/responsive-landing-simple/templates/mind-map-weekly-employee-meeting-hlq67stp1.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/mind-map-weekly-employee-meeting-hlq67stp1.png"
+                }
+            ],
+            [
+                {
+                    "id": "gd5xk9gd2",
+                    "image": "/images/responsive-landing-simple/templates/mind-map-risk-management-gd5xk9gd2.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/mind-map-risk-management-gd5xk9gd2.png"
+                },
+                {
+                    "id": "j20af6gl7",
+                    "image": "/images/responsive-landing-simple/templates/flowchart-decision-flowchart-template-j20af6gl7.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/flowchart-decision-flowchart-template-j20af6gl7.png"
+                },
+                {
+                    "id": "gsy8pdq4f",
+                    "image": "/images/responsive-landing-simple/templates/flowchart-recruitment-process-gsy8pdq4f.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/flowchart-recruitment-process-gsy8pdq4f.png"
+                },
+                {
+                    "id": "in5qzdql1",
+                    "image": "/images/responsive-landing-simple/templates/flowchart-how-to-get-a-job-in5qzdql1.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/flowchart-how-to-get-a-job-in5qzdql1.png"
+                }
+            ],
+            [
+                {
+                    "id": "ieat0pyh1",
+                    "image": "/images/responsive-landing-simple/templates/use-case-diagram-online-hr-system-ieat0pyh1.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/use-case-diagram-online-hr-system-ieat0pyh1.png"
+                },
+                {
+                    "id": "fseo2omy1",
+                    "image": "/images/responsive-landing-simple/templates/swot-diagram-swot-analysis-template-fseo2omy1.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/swot-diagram-swot-analysis-template-fseo2omy1.png"
+                },
+                {
+                    "id": "idse36t71",
+                    "image": "/images/responsive-landing-simple/templates/gantt-chart-simple-colored-gantt-chart-sample-idse36t71.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/gantt-chart-simple-colored-gantt-chart-sample-idse36t71.png"
+                },
+                {
+                    "id": "ina5zts92",
+                    "image": "/images/responsive-landing-simple/templates/organizational-chart-corporate-org-chart-with-board-of-directors-ina5zts92.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/organizational-chart-corporate-org-chart-with-board-of-directors-ina5zts92.png"
+                },
+                {
+                    "id": "ge13ae561",
+                    "image": "/images/responsive-landing-simple/templates/organizational-chart-hr-dept-org-chart-ge13ae561.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/organizational-chart-hr-dept-org-chart-ge13ae561.png"
+                }
+            ]
+        ]
+    },
+    {
+        "category": "Education Teams",
+        "categoryId": "education-teams",
+        "icon" : "/images/responsive-landing-simple/template-category-icon/education-teams.svg",
+        "templates": [
+            [
+                {
+                    "id": "ir3c67pk3",
+                    "image": "/images/responsive-landing-simple/templates/family-tree-british-royal-ir3c67pk3-large.png",
+                    "thumb": "/images/responsive-landing-simple/templates/family-tree-british-royal-ir3c67pk3.png"
+                },
+                {
+                    "id": "ir2ybly12",
+                    "image": "/images/responsive-landing-simple/templates/family-tree-my-family-tree-template-ir2ybly12-large.png",
+                    "thumb": "/images/responsive-landing-simple/templates/family-tree-my-family-tree-template-ir2ybly12.png"
+                },
+                {
+                    "id": "irhcn2m91",
+                    "image": "/images/responsive-landing-simple/templates/family-tree-olympian-gods-family-tree-irhcn2m91-large.png",
+                    "thumb": "/images/responsive-landing-simple/templates/family-tree-olympian-gods-family-tree-irhcn2m91.png"
+                },
+                {
+                    "id": "irhnuvbl1",
+                    "image": "/images/responsive-landing-simple/templates/family-tree-the-legend-of-korra-irhnuvbl1-large.png",
+                    "thumb": "/images/responsive-landing-simple/templates/family-tree-the-legend-of-korra-irhnuvbl1.png"
+                }
+            ],
+            [
+                {
+                    "id": "ir610rw11",
+                    "image": "/images/responsive-landing-simple/templates/the-simpsons-family-tree-diagram-ir610rw11-large.png",
+                    "thumb": "/images/responsive-landing-simple/templates/the-simpsons-family-tree-diagram-ir610rw11.png"
+                },
+                {
+                    "id": "g6adlbuz7",
+                    "image": "/images/responsive-landing-simple/templates/reptiles-kwl-chart-template-g6adlbuz7-large.png",
+                    "thumb": "/images/responsive-landing-simple/templates/reptiles-kwl-chart-template-g6adlbuz7.png"
+                },
+                {
+                    "id": "g13vrux66",
+                    "image": "/images/responsive-landing-simple/templates/understanding-diabetes-kwl-template-g13vrux66.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/understanding-diabetes-kwl-template-g13vrux66.png"
+                },
+                {
+                    "id": "hhbg9wdi1",
+                    "image": "/images/responsive-landing-simple/templates/story-board-spongebob-squarepants-missing-identity-storyboard-hhbg9wdi1-large.png",
+                    "thumb": "/images/responsive-landing-simple/templates/story-board-spongebob-squarepants-missing-identity-storyboard-hhbg9wdi1.png"
+                }
+            ],
+            [
+                {
+                    "id": "g6eo15jl2",
+                    "image": "/images/responsive-landing-simple/templates/t-chart-online-degrees-g6eo15jl2-large.png",
+                    "thumb": "/images/responsive-landing-simple/templates/t-chart-online-degrees-g6eo15jl2.png"
+                },
+                {
+                    "id": "g24v0f8m2",
+                    "image": "/images/responsive-landing-simple/templates/chemical-chart-chemistry-lab-experiment-g24v0f8m2.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/chemical-chart-chemistry-lab-experiment-g24v0f8m2.png"
+                },
+                {
+                    "id": "gsx1cnemf",
+                    "image": "/images/responsive-landing-simple/templates/chemical-chart-periodic-table-of-the-elements-gsx1cnemf.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/chemical-chart-periodic-table-of-the-elements-gsx1cnemf.png"
+                },
+                {
+                    "id": "fuvlqemv1",
+                    "image": "/images/responsive-landing-simple/templates/kwl-diagram-template-fuvlqemv1.svg",
+                    "thumb": "/images/responsive-landing-simple/templates/kwl-diagram-template-fuvlqemv1.png"
+                }
+            ]
+        ]
+    }
+]
